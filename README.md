@@ -1,6 +1,6 @@
 # Machine Learning Portfolio
 
-## Project 1: CyberThreat Hunting using ML
+## [Project 1: CyberThreat Hunting using ML](https://github.com/tevinjose97/Machine-Learning-Projects/tree/main/CyberThreat-Hunting_using_ML)
 * Cyber threat hunting assumes organizations are compromised and proactively looks for advanced threats that have evaded existing security solutions.
 * Built an **interactive threat hunting tool** using **Python** to help threat hunters **train models** using **custom labeled threat datasets** and **predict unlabelled datasets, to detect and classify threats/ anomalies**.
 * The Model Pipeline is as follows:
