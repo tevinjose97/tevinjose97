@@ -14,7 +14,7 @@
 * The tool employs a web user interface using Python's Streamlit library. The tool also provides visualizations (pie chart, color-coded predictions, frequency plots) of the predictions to infer data at a glance.
 * The performance of the machine learning models was evaluated using performance metrics like Accuracy, Precision, Recall and F1-Score.
 
-<!--
+
 **tevinjose97/tevinjose97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
