@@ -1,6 +1,6 @@
-### Tevin_Portfolio
+### Machine Learning Portfolio
 
-## Project 1: CyberThreat Detecting using ML
+# Project 1: CyberThreat Detecting using ML
 * Cyber threat hunting assumes organizations are compromised and proactively looks for advanced threats that have evaded existing security solutions.
 * Built an interactive threat hunting tool using Python to help threat hunters train models using custom labeled threat datasets and predict unlabelled datasets, to detect and classify threats/ anomalies.
 * The Model Pipeline is as follows: 1) Loading and Splitting the Dataset | 2) Data Preprocessing | 3) Feature Selection | 4) Resampling (Undersampling and Oversampling) | 5) Model Training and Tuning | 6) Performance Analysis
