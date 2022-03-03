@@ -12,5 +12,5 @@
    6. **Performance Analysis**
 * The project tries to leverage the benefits of **Supervised** and **Unsupervised** methods by combining them. The **Catboost Classifier** and **Isolation Forest** models were used in an ensemble so that the Catboost model can handle known threats while the Isolation Forest can handle unknown anomalies.
 * The tool employs a web user interface using Python's **Streamlit** library.
-* To infer data at a glance, the tool provides visualizations such as **pie charts, color-coded predictions, and frequency plots** of the predictions .
+* To infer data at a glance, the tool provides **visualisations** such as **pie charts, color-coded predictions,** and **frequency plots** of the predictions .
 * The performance of the machine learning models was evaluated using performance metrics like **Accuracy, Precision, Recall** and **F1-Score**.
