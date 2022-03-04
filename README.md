@@ -34,4 +34,9 @@
     \includegraphics[width=\textwidth]{/Images/pred_results_ui.png}
     \caption{Flower one.}
   \end{minipage}
+   \hfill
+  \begin{minipage}[b]{0.4\textwidth}
+    \includegraphics[width=\textwidth]{/Images/pred_results_ui.png}
+    \caption{Flower two.}
+  \end{minipage}
 \end{figure}
