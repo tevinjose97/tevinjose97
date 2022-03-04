@@ -24,8 +24,8 @@
 ![](/Images/pred_results_ui.png | width=150)
 -->
 <p align="center">
-  <img src="/Images/pred_results_ui.png" width="200" />
-  <img src="/Images/pred_results_ui.png" width="200" /> 
-  <img src="/Images/pred_results_ui.png" width="200" />
+  <img src="/Images/threat_anomaly_pred_ui.png" width="200" />
+  <img src="/unsw_piechart.PNG" width="200" /> 
+  <img src="/Images/predictions_table.png" width="200" />
 </p>
 
