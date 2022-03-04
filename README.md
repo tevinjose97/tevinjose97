@@ -29,3 +29,8 @@
   <img src="/Images/predictions_table.png" width="200" />
 </p>
 
+<p align="center">
+  <img src="/Images/unsw_piechart.png" width="200" /> 
+  <img src="/Images/unsw_feat_threat_results.png" width="200" />
+</p>
+
