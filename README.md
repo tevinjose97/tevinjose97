@@ -20,9 +20,18 @@
 <!--- <p align="center">
   <img src="/Images/pred_results_ui.png" width="300">
  </p>
--->
+
 <p align="center">
   <img src="/Images/pred_results_ui.png" width="200" />
   <img src="/Images/pred_results_ui.png" width="200" /> 
   <img src="/Images/pred_results_ui.png" width="200" />
 </p>
+-->
+
+\begin{figure}[!tbp]
+  \centering
+  \begin{minipage}[b]{0.4\textwidth}
+    \includegraphics[width=\textwidth]{/Images/pred_results_ui.png}
+    \caption{Flower one.}
+  \end{minipage}
+\end{figure}
