@@ -8,7 +8,7 @@
    2. **Data Preprocessing**
    3. **Feature Selection**
    4. **Resampling (Undersampling and Oversampling)**
-   5. **Model Training and Tuning**
+   5. **Model Training and Hyperparameter Tuning**
    6. **Performance Analysis**
 * The project tries to leverage the benefits of **Supervised** and **Unsupervised** methods by combining them. The **Catboost Classifier** and **Isolation Forest** models were used in an ensemble so that the Catboost model can handle known threats while the Isolation Forest can handle unknown anomalies.
 * The tool employs a web user interface using Python's **Streamlit** library.
