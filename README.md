@@ -15,7 +15,7 @@
 * To infer data at a glance, the tool provides **visualisations** such as **pie charts, color-coded predictions,** and **frequency plots** of the predictions .
 * The performance of the machine learning models was evaluated using performance metrics like **Accuracy, Precision, Recall** and **F1-Score**.
 
-![](/Images/pred_results_ui.png)
+![](/Images/pred_results_ui.png =250x250)
 
 <!--- <p align="center">
   <img src="/Images/pred_results_ui.png" width="300">
@@ -27,16 +27,3 @@
   <img src="/Images/pred_results_ui.png" width="200" />
 </p>
 -->
-
-\begin{figure}[!tbp]
-  \centering
-  \begin{minipage}[b]{0.4\textwidth}
-    \includegraphics[width=\textwidth]{/Images/pred_results_ui.png}
-    \caption{Flower one.}
-  \end{minipage}
-   \hfill
-  \begin{minipage}[b]{0.4\textwidth}
-    \includegraphics[width=\textwidth]{/Images/pred_results_ui.png}
-    \caption{Flower two.}
-  \end{minipage}
-\end{figure}
