@@ -15,7 +15,7 @@
 * To infer data at a glance, the tool provides **visualisations** such as **pie charts, color-coded predictions,** and **frequency plots** of the predictions .
 * The performance of the machine learning models was evaluated using performance metrics like **Accuracy, Precision, Recall** and **F1-Score**.
 
-![](/Images/pred_results_ui.png =250x250)
+![](/Images/pred_results_ui.png | width=150)
 
 <!--- <p align="center">
   <img src="/Images/pred_results_ui.png" width="300">
