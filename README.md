@@ -21,7 +21,7 @@
  </p>
 -->
 <p align="center">
-  <img src="/Images/pred_results_ui.png" width="100" />
-  <img src="/Images/pred_results_ui.png" width="100" /> 
-  <img src="/Images/pred_results_ui.png" width="100" />
+  <img src="/Images/pred_results_ui.png" width="200" />
+  <img src="/Images/pred_results_ui.png" width="200" /> 
+  <img src="/Images/pred_results_ui.png" width="200" />
 </p>
