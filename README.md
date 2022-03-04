@@ -20,7 +20,7 @@
   <img src="/Images/pred_results_ui.png" width="300">
  </p>
 -->
-<p float="left">
+<p align="center">
   <img src="/Images/pred_results_ui.png" width="100" />
   <img src="/Images/pred_results_ui.png" width="100" /> 
   <img src="/Images/pred_results_ui.png" width="100" />
