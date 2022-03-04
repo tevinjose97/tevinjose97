@@ -16,5 +16,5 @@
 * The performance of the machine learning models was evaluated using performance metrics like **Accuracy, Precision, Recall** and **F1-Score**.
 
 <p align="center">
-  <img src="/Images/pred_results_ui.png">
+  <img src="/Images/pred_results_ui.png" width="200">
 </p>
