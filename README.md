@@ -24,12 +24,12 @@
 ![](/Images/pred_results_ui.png | width=150)
 -->
 <p align="center">
-  <img src="/Images/threat_anomaly_pred_ui.png" width="200" />
-  <img src="/Images/predictions_table.png" width="200" />
+  <img src="/Images/threat_anomaly_pred_ui.png" width="400" />
+  <img src="/Images/predictions_table.png" width="400" />
 </p>
 
 <p align="center">
-  <img src="/Images/unsw_piechart.png" width="200" /> 
-  <img src="/Images/unsw_feat_threat_results.png" width="200" />
+  <img src="/Images/unsw_piechart.png" width="400" /> 
+  <img src="/Images/unsw_feat_threat_results.png" width="400" />
 </p>
 
