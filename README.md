@@ -25,7 +25,7 @@
 -->
 <p align="center">
   <img src="/Images/threat_anomaly_pred_ui.png" width="400" />
-  <img src="/Images/predictions_table.png" width="400" />
+  <img src="/Images/pred_feat_threat_ui.png" width="400" />
 </p>
 
 <p align="center">
