@@ -26,7 +26,7 @@
 </p>
 
 ## [Project: Insurance Claim Prediction (Vehicle Characteristics)](https://github.com/tevinjose97/Machine-Learning-Projects/tree/main/Insurance_Claim_Prediction_(Vehicle-Characteristics))
-* Predictive model that uses vehicle characteristics to accurately predict insurance claim payments
+* Predictive model that uses **vehicle characteristics** to accurately **predict insurance claim payments**
 * Explore the dataset
 * Splitting dataset into **Train, Test** and **Validation** sets
 * Custom function to handle **categorical** and **ordinal** values (based on pattern)
