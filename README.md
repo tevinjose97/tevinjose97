@@ -27,3 +27,11 @@
 
 ## [Project: Insurance Claim Prediction (Vehicle Characteristics)](https://github.com/tevinjose97/Machine-Learning-Projects/tree/main/Insurance_Claim_Prediction_(Vehicle-Characteristics))
 * Predictive model that uses vehicle characteristics to accurately predict insurance claim payments
+* Explore the dataset
+* Splitting dataset into Train, Test and Validation
+* Custom function to handle categorical and ordinal values (based on pattern)
+* Handle the mising values and imbalanced dataset (cluster centroids)
+* Experiment with Tandem model combining the binary classifier and regressor, due to the high amount of zero claims
+* Regressor Models: Linear, Ridge, Random Forest and Gradient Boosting
+* Classification Models: Random Forest, Gradient Boosting
+* GridSearchCV for tuning the model hyperparameters and obtaining the optimal model
