@@ -38,5 +38,5 @@
 
 
 <p align="center">
-  <img src="/Images/Claims_Histogram.PNG" width="400" />
+  <img src="/Images/Claims_Histogram.PNG" width="800" />
 </p>
