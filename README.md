@@ -35,3 +35,8 @@
 * Regressor Models: **Linear, Ridge, Random Forest** and **Gradient Boosting**
 * Classification Models: **Random Forest** and **Gradient Boosting**
 * **GridSearchCV** for **tuning the model hyperparameters** and obtaining the optimal model
+
+
+<p align="center">
+  <img src="/Claims_Histogram.PNG" width="400" />
+</p>
