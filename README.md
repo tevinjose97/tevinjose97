@@ -5,7 +5,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -59,7 +58,6 @@
 * Regressor Models: **Linear, Ridge, Random Forest** and **Gradient Boosting**
 * Classification Models: **Random Forest** and **Gradient Boosting**
 * **GridSearchCV** for **tuning the model hyperparameters** and obtaining the optimal model
-
 
 <p align="center">
   <img src="/Images/Claims_Histogram.PNG" width="600" />
