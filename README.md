@@ -11,6 +11,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark)
+![Streamlit](https://a11ybadges.com/badge?logo=streamlit)
 
 ### Familiar with:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
